@@ -66,7 +66,7 @@ public class Login extends javax.swing.JFrame {
         getContentPane().add(btnRegist, new org.netbeans.lib.awtextra.AbsoluteConstraints(390, 320, 100, 30));
 
         btnLogin1.setText("LOGIN");
-        getContentPane().add(btnLogin1, new org.netbeans.lib.awtextra.AbsoluteConstraints(170, 320, 100, 30));
+        getContentPane().add(btnLogin1, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 320, 100, 30));
         getContentPane().add(jfPassword, new org.netbeans.lib.awtextra.AbsoluteConstraints(290, 250, 200, 30));
 
         jLabel5.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
