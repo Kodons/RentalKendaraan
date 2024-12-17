@@ -87,7 +87,7 @@ public class Registrasi extends javax.swing.JFrame {
                 tfNIKActionPerformed(evt);
             }
         });
-        getContentPane().add(tfNIK, new org.netbeans.lib.awtextra.AbsoluteConstraints(300, 300, 200, 20));
+        getContentPane().add(tfNIK, new org.netbeans.lib.awtextra.AbsoluteConstraints(300, 300, 200, 30));
 
         tfEmail1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
